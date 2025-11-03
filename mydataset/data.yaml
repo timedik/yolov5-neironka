@@ -3,7 +3,7 @@ val: ../val/images
 test: ../test/images
 
 nc: 1
-names: ['objects']
+names: ["objects"]
 
 roboflow:
   workspace: timed-neiro
